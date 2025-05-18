@@ -36,7 +36,7 @@ pip install requests beautifulsoup4 python-dotenv undetected-chromedriver pytz
 
 ```bash
 git clone https://github.com/R4INYIS/walmart-scraping/
-cd walmart-discount-monitor
+cd walmart-scraping
 ```
 
 2. **Create a `.env` file** in the root directory with your Telegram bot credentials:
